@@ -1,13 +1,5 @@
-# 👋 Hi, I'm Ali Kaan Türkiye
-
-🎯 **Senior Software Engineer**  
-💻 8+ years of experience in **C/C++**, **C#**, **Python**, **Docker**, and **GitLab CI/CD**
-
-I'm passionate about solving complex problems and building efficient, scalable software.  
-I enjoy working across different languages and platforms, from low-level embedded systems to full-scale DevOps pipelines.
-
 # 💫 About Me:
-👋 Hi, I'm Ali Kaan Türkiye<br><br>🎯 Senior Software Engineer <br>💻 8+ years of experience in C/C++, C#, Python, Docker, and GitLab CI/CD<br><br>I'm passionate about solving complex problems and building efficient, scalable software.  <br>I enjoy working across different languages and platforms, from low-level embedded systems to full-scale DevOps pipelines.<br>
+👋 Hi, I'm Ali Kaan <br><br>🎯 Senior Software Engineer <br>💻 8+ years of experience in C/C++, C#, Python, Docker, and GitLab CI/CD<br><br>I'm passionate about solving complex problems and building efficient, scalable software.  <br>I enjoy working across different languages and platforms, from low-level embedded systems to full-scale DevOps pipelines.<br>
 
 
 ## 🌐 Socials:
