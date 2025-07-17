@@ -1,7 +1,14 @@
 # 💫 About Me:
-👋 Hi, I'm Ali Kaan <br><br>🎯 Senior Software Engineer with over 8 years of experience in designing and developing Embedded Linux, RTOS, and bare-metal
+👋 Hi, I'm Ali Kaan <br><br>🎯 Senior Software Engineer <br>
+💻 8+ years of experience in C/C++, C#, Python, Docker, and GitLab CI/CD 
+<br><br>
+I'm passionate about solving complex problems and building efficient, scalable software.  
+<br>
+8+ years of experience in designing and developing Embedded Linux, RTOS, and bare-metal
 systems, Web APIs, desktop application, microservices applications, DevOps, CI/CD managerment. Proven expertise in leading and
-mentoring teams to deliver high-quality software solutions <br>💻 8+ years of experience in C/C++, C#, Python, Docker, and GitLab CI/CD<br><br>I'm passionate about solving complex problems and building efficient, scalable software.  <br>I enjoy working across different languages and platforms, from low-level embedded systems to full-scale DevOps pipelines.<br>
+mentoring teams to deliver high-quality software solutions
+<br>
+I enjoy working across different languages and platforms, from low-level embedded systems to full-scale DevOps pipelines.<br>
 
 
 ## 🌐 Socials:
